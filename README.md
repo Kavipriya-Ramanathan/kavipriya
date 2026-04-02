@@ -28,6 +28,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+### 👩‍💻 About Me
+- 🏆 **Full stack Devloper** with 4 years of experience.
+- ⚙️ **Full-Stack Developer** specialized in **Node.js, Java**, and **Azure CI/CD**.
+- 🎨 **Creative Soul:** I share my art journey on my YouTube channel, **Diary by Kavi**.
+- 💡 **Goal:** Building seamless, aesthetic, and high-performance web applications.
+
+---
+
 ### 🤝 Let's Connect!
 
 <p align="center">
